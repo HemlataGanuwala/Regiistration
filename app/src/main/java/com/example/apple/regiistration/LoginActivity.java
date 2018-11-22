@@ -8,6 +8,7 @@ public class LoginActivity extends AppCompatActivity {
 
     Button abc;
     Button xyz;
+    Button ccc;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
