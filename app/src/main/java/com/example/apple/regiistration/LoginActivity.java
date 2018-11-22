@@ -2,8 +2,11 @@ package com.example.apple.regiistration;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.widget.Button;
 
 public class LoginActivity extends AppCompatActivity {
+
+    Button abc;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
